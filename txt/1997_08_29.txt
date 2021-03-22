@@ -1,4 +1,3 @@
-
          [Hi, Dave here. Dan's currently visiting the Burning Man
          festival in the Nevada desert and, as he normally does all
          the cool technical stuff, I thought I'd make this a special

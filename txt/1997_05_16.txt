@@ -1,4 +1,3 @@
-
  _   _ _____ _  __Issue [0.4]b 16/05/97
 | \ | |_   _| |/ /_ __   _____      __ o Slight Mo'media bloat again,
 |  \| | | | | ' /| '_ \ / _ \ \ /\ / / o exciting new media format to
